@@ -1,14 +1,9 @@
 # Perbandingan-Algoritma-Prim-dan-Kruskal
 Proyek ini mengeksplorasi dan membandingkan dua algoritma utama dalam mencari Minimum Spanning Tree (MST) pada graf berbobot: Algoritma Prim dan Algoritma Kruskal.
-
-## Latar Belakang
-
 Minimum Spanning Tree (MST) adalah struktur pohon yang menghubungkan semua simpul dalam graf dengan bobot minimum tanpa membentuk siklus. Algoritma Prim dan Algoritma Kruskal adalah dua pendekatan utama untuk menemukan MST:
 
 - **Algoritma Prim**: Memulai dari sebuah simpul dan menambahkan simpul terdekat hingga seluruh graf terhubung.
 - **Algoritma Kruskal**: Mengurutkan semua tepi berdasarkan bobot dan menambahkan tepi terkecil yang tidak membentuk siklus.
-
-## Tujuan dan Manfaat
 
 ### Tujuan
 1. Menganalisis konsep Minimum Spanning Tree (MST).
